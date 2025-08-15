@@ -18,7 +18,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/rohitdeppi38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rohitdeppi38" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rohit-kuwarbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Rohit Kuwarbi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohit-kuwarbi" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Rohit Kuwarbi" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
