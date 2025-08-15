@@ -31,10 +31,8 @@
     style="filter: invert(1); background-color:black; border-radius:50%; padding:5px;"
   />
 </a>
-
-
-
-
+</p>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
