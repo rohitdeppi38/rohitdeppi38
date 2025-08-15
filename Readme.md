@@ -23,6 +23,11 @@
 </a>
 
 <a href="https://x.com/rohitdeppi38" target="_blank">
+<a href="https://x.com/rohitdeppi38" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="Rohit Deppi on X" height="30" width="40" />
+</a>
+
+
   <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="Rohit Deppi on X" height="30" width="40" />
 </a>
 
