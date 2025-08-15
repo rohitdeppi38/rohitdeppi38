@@ -24,13 +24,14 @@
 <a href="https://x.com/rohitdeppi38" target="_blank">
   <img
     align="center"
-    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg"
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg"
     alt="Rohit Deppi on X"
     height="30"
     width="30"
-    style="background-color:black; border-radius:50%; padding:5px;"
+    style="filter: invert(1); background-color:black; border-radius:50%; padding:5px;"
   />
 </a>
+
 
 
 
