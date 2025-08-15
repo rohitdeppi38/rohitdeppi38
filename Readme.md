@@ -22,6 +22,11 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Rohit Kuwarbi" height="30" width="40" />
 </a>
 
+<a href="https://x.com/rohitdeppi38" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="Rohit Deppi on X" height="30" width="40" />
+</a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
