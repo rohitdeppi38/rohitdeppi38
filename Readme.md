@@ -21,15 +21,10 @@
 <a href="https://www.linkedin.com/in/rohit-kuwarbi" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Rohit Kuwarbi" height="30" width="40" />
 </a>
-
 <a href="https://x.com/rohitdeppi38" target="_blank">
-<a href="https://x.com/rohitdeppi38" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="Rohit Deppi on X" height="30" width="40" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_X_icon.svg" alt="Rohit Deppi on X" height="30" width="30" style="border-radius:50%; background-color:black; padding:5px;" />
 </a>
 
-
-  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="Rohit Deppi on X" height="30" width="40" />
-</a>
 
 
 </p>
